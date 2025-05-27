@@ -1,23 +1,56 @@
-### Español
+# Taller: Desarrollando una Pokedex Interactiva con Angular
 
-# Repositorio para TechSchool
+**Mentor de esta edición:** Gonzalo Fleming G. [@gonzafg2](https://github.com/gonzafg2)
 
-¡Bienvenidos al repositorio oficial de **TechSchool**!
+## Descripción del Taller
 
-Este espacio ha sido creado con el objetivo de proporcionar a los estudiantes todos los materiales y archivos necesarios para nuestros talleres. Dentro de este repositorio, encontrarás las carpetas correspondientes a cada uno de los talleres que ofrecemos en nuestros eventos.
+Adéntrate en el mundo de Angular creando una Pokédex interactiva. Explora a tus Pokémon favoritos de la primera generación y descubre sus detalles.
 
-**TechSchool** es la evolución de los eventos NodeSchool y es organizado por la comunidad JavaScript Chile. Nuestro primer evento se celebra el [Fecha del Evento, ej: 28 de octubre de 2023] y estamos emocionados de compartir conocimientos y experiencias con todos los participantes.
+## Objetivo del Taller
 
-Te invitamos a explorar las carpetas, descargar el material y prepararte para una experiencia educativa enriquecedora. ¡Nos vemos en TechSchool!
+- Conocer los conceptos básicos de Angular.
+- Crear una aplicación web interactiva.
+- Aprender a utilizar Bootstrap para darle estilo a la aplicación.
+- Aprender a consumir una API REST.
+- Aprender a desplegar una aplicación en GitHub Pages.
+- Aprender a utilizar Git y GitHub para el control de versiones.
+- Aprender a utilizar Angular CLI para crear y desplegar aplicaciones.
 
-### English
+## Prerrequisitos
 
-# Repository for TechSchool
+- Laptop con acceso a un editor de texto.
+- Conocimientos básicos de Javascript, HTML y CSS.
+- Tener instalado Node.js y npm en tu laptop.
+- Tener instalado Git en tu laptop y cuenta activa en GitHub.
+- Tener instalado Angular CLI en tu laptop.
 
-Welcome to the official **TechSchool** repository!
+## Material de apoyo
 
-This space has been created to provide students with all the necessary materials and files for our workshops. Within this repository, you'll find all folders corresponding to each of the workshops we offer at the events.
+- Documentación oficial de Node.js: <https://nodejs.org>
+- Documentación oficial de npm: <https://www.npmjs.com>
+- Documentación oficial de Git: <https://git-scm.com>
+- Documentación oficial de GitHub: <https://github.com>
+- Documentación oficial de Angular CLI: <https://cli.angular.io>
+- Nueva documentación oficial de Angular: <https://angular.dev/>
+- Documentación oficial de Bootstrap: <https://getbootstrap.com/>
 
-**TechSchool** is the evolution of the NodeSchool events and is organized by the JavaScript Chile community. Our first event is being held on [Event Date, e.g., October 28th, 2023], and we are excited to share knowledge and experiences with all participants.
+## Recursos
 
-We invite you to explore the folders, download the material, and get ready for a rich educational experience. See you at TechSchool!
+- API REST de Pokémon: <https://pokeapi.co>
+
+## Instrucciones
+
+1. Clona este repositorio en tu laptop.
+2. Crea un nuevo repositorio en tu cuenta de GitHub.
+3. Cambia el origen del repositorio clonado a tu nuevo repositorio.
+4. Descarga las dependencias del proyecto con `npm install`.
+5. Completa los ejercicios propuestos por el mentor.
+6. Despliega tu aplicación en GitHub Pages.
+7. Comparte tu aplicación con tus compañeros y el mentor.
+8. ¡Diviértete y disfruta del taller!
+9. No olvides dejar tu estrella en el repositorio del mentor.
+10. No olvides dejar tu estrella en este repositorio.
+
+## Licencia
+
+[MIT](https://opensource.org/licenses/MIT)
