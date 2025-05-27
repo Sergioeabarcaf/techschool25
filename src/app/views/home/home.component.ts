@@ -8,17 +8,16 @@ import { Pokemon } from '../../models/pokedex.model';
 import { LoaderComponent } from '../../components/loader/loader.component';
 
 @Component({
-  selector: 'app-home',
-  standalone: true,
-  imports: [
-    HeaderComponent,
-    CardPokeComponent,
-    FailPokeComponent,
-    LoaderComponent,
-    FormsModule,
-  ],
-  templateUrl: './home.component.html',
-  styleUrl: './home.component.scss',
+    selector: 'app-home',
+    imports: [
+        HeaderComponent,
+        CardPokeComponent,
+        FailPokeComponent,
+        LoaderComponent,
+        FormsModule,
+    ],
+    templateUrl: './home.component.html',
+    styleUrl: './home.component.scss'
 })
 export class HomeComponent {
   public title: string = 'Pokédex with Angular 17';
