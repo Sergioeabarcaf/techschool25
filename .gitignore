@@ -12,6 +12,7 @@ TallerReact/pokedex-app/node_modules
 
 # Dependencies
 /node_modules
+.angular/
 
 # Cordova
 /www
